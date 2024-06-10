@@ -1,0 +1,20 @@
+#img7,#img8,#img9,#img10,#img11{
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+#img7{
+    background-image: url(img7.jpg);
+}
+#img8{
+    background-image: url(img8.jpg);
+}
+#img9{
+    background-image: url(img9.jpg);
+}
+#img10{
+    background-image: url(img10.jpg);
+}
+#img11{
+    background-image: url(img11.jpg);
+}

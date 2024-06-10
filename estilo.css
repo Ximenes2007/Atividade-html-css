@@ -1,0 +1,138 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    /* background-image: url(Img/img1.jpg); */
+    font: 20px arial, Helvetica, sans-Serif;
+    padding-bottom: 400px;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between  ;
+}
+
+#menu {
+    
+}
+div img{
+    max-height: 1200px;
+    margin: 0 auto;
+    padding-left: 550px;
+}
+
+menu{
+    margin-bottom: 50px;
+    display: block;
+    padding-bottom: 900px;
+}
+header {
+    text-align: center;
+    background-color: rgb(179, 255, 128);
+    padding: 20px;
+    border-bottom: 2px solid #a0f5ab;
+}
+
+section {
+    color: #000000;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    display: contents;
+    position: relative;
+    ;
+}
+.alfaomega {
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+}
+.caixaDireita {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    right: 20px;
+}
+
+.caixaEsquerda {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 160px;
+    left: 20px;
+    padding-left: 30px;
+}
+
+.caixaDireita2 {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    right: 20px;
+}
+
+.caixaEsquerda1 {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    left: 20px;
+    padding-left: 30px;
+}
+
+.caixaDireita2 {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    right: 20px;
+}
+
+
+.caixaDireita3 {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    right: 20px;
+}
+
+.caixaEsquerda3 {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    padding-left: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#img7,#img8,#img9,#img10,#img11{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+ #img7{
+     background-image: url(img7.jpg);
+ }
+ #img8{
+     background-image: url(img8.jpg);
+ }
+ #img9{
+     background-image: url(img9.jpg);
+ }
+ #img10{
+     background-image: url(img10.jpg);
+ }
+ #img11{
+     background-image: url(img11.jpg);
+ }

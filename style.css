@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+background-image: url("https://www.receitasnestle.com.br/sites/default/files/srh_recipes/9954f57d1ba0fc9a818b8bbf267e31ce.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+color: beige;
+font-family: 'Courier New';
+}
+
+header {
+    text-align: center;
+    background-color: rgb(255, 197, 97);
+    padding: 20px;
+    border-bottom: 2px solid #df9e3c;
+}
+
+section {
+    color: #000000;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    display: contents;
+    position: relative;
+    ;
+}
+
+.ordenada {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    right: 20px;
+}
+
+.naoOrdenada {
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    top: 120px;
+    padding-left: 30px;
+}
+
